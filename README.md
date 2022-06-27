@@ -12,6 +12,7 @@ Left ventricle cardiac segmentation on the [SunnyBrook](http://www.cardiacatlas.
 ![table2](https://github.com/tswizzle141/FCN-Based-Method-for-Left-Ventricle-Endocardium-and-Epicardium-Segmentation-with-New-Block-Modules/blob/main/4.jpg)
 ## Citation
 If you find our work useful for your research, please cite at:
+
 `@INPROCEEDINGS{left-ventricle-fcn,  
     author={Nham, Do-Hai-Ninh and Trinh, Minh-Nhat and Tran, Tien-Thanh and Pham, Van-Truong and Tran, Thi-Thao},  
     booktitle={2021 8th NAFOSTED Conference on Information and Computer Science (NICS)},   
