@@ -1,6 +1,5 @@
 # FCN-Based-Method-for-Left-Ventricle-Endocardium-and-Epicardium-Segmentation-with-New-Block-Modules
 See our [published paper](https://ieeexplore.ieee.org/document/9701571) here.
-#### (Specially thanks to @minhnhattrinh312 for our lovely cooperation)
 ## Introduction
 Left ventricle cardiac segmentation on the [SunnyBrook](http://www.cardiacatlas.org/studies/sunnybrook-cardiac-data/) and [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html).
 ## Our contributions
